@@ -1,5 +1,3 @@
-Simple Calculator
-Description
 This is a simple command-line calculator written in C++. It supports basic arithmetic operations including:
   Addition (+)
   Subtraction (-)
